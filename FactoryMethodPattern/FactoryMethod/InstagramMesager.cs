@@ -3,11 +3,11 @@
 namespace FactoryMethod
 {
     /// <summary>
-    /// Реализация мессенджара Твиттера.
+    /// Реализация мессенджара Instagram.
     /// </summary>
-    public class TwitterMessager : MessagerBase
+    public class InstagramMesager : MessagerBase
     {
-        public TwitterMessager(string userName, string password)
+        public InstagramMesager(string userName, string password)
             : base(userName, password)
         {
 
@@ -15,7 +15,7 @@ namespace FactoryMethod
 
         public override bool Authorize()
         {
-            Console.WriteLine($"Авторизация в Твиттере пользователя с именем: {UserName} и паролем: {Password}");
+            Console.WriteLine($"Авторизация в Instagram пользователя с именем: {UserName} и паролем: {Password}");
 
             return true;
         }
