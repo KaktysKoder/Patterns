@@ -6,7 +6,9 @@ namespace FactoryMethod
     {
         private static void Main()
         {
-            
+            Messager messager = new Messager("Rimuru", "143190304");
+
+            messager.SendMessage("H!", "Rimuru", "Microsoft");
         }
     }
 }

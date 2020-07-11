@@ -23,10 +23,7 @@ namespace FactoryMethod
                 Password = password;
                 Connect = ConnecttoTwitter();
             }
-            else
-            {
-                Connect = false;
-            }
+            else Connect = false;
         }
 
         /// <summary>
@@ -63,6 +60,10 @@ namespace FactoryMethod
             SendMessageToTwitter(message);
         }
 
+        /// <summary>
+        /// Отправить сообщение в Твиттер.
+        /// </summary>
+        /// <param name="message">Отправляемое сообщение true - авторизовано false - отказано</param>
         private void SendMessageToTwitter(Message message)
         {
             //TODO: Обращение к API Twittera для отправки сообщения
@@ -73,6 +74,10 @@ namespace FactoryMethod
             Console.WriteLine($"Twitter: {message.Text}");
         }
 
+        /// <summary>
+        /// Авторизация пользователя в Твиттере
+        /// </summary>
+        /// <returns></returns>
         private bool ConnecttoTwitter()
         {
             //TODO: Обращение к API Twittera для автроризации

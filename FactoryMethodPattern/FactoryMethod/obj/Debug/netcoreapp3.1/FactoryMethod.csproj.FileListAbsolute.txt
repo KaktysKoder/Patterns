@@ -1,0 +1,13 @@
+F:\NamespaceCSharp\N1\DesignPatterns\FactoryMethodPattern\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+F:\NamespaceCSharp\N1\DesignPatterns\FactoryMethodPattern\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+F:\NamespaceCSharp\N1\DesignPatterns\FactoryMethodPattern\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+F:\NamespaceCSharp\N1\DesignPatterns\FactoryMethodPattern\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+F:\NamespaceCSharp\N1\DesignPatterns\FactoryMethodPattern\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+F:\NamespaceCSharp\N1\DesignPatterns\FactoryMethodPattern\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+F:\NamespaceCSharp\N1\DesignPatterns\FactoryMethodPattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+F:\NamespaceCSharp\N1\DesignPatterns\FactoryMethodPattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+F:\NamespaceCSharp\N1\DesignPatterns\FactoryMethodPattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+F:\NamespaceCSharp\N1\DesignPatterns\FactoryMethodPattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
+F:\NamespaceCSharp\N1\DesignPatterns\FactoryMethodPattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+F:\NamespaceCSharp\N1\DesignPatterns\FactoryMethodPattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
+F:\NamespaceCSharp\N1\DesignPatterns\FactoryMethodPattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.genruntimeconfig.cache
